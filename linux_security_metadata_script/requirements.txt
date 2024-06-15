@@ -1,0 +1,5 @@
+PyMySQL==1.0.3
+tiktoken==0.4.0
+pandas==2.0.2
+beautifulsoup4==4.12.2
+openai==1.6.1
