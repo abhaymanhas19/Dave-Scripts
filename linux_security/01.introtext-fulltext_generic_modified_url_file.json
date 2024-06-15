@@ -1,0 +1,18 @@
+[
+    {
+        "id": 18,
+        "field": "introtext",
+        "decompose_url": null,
+        "url": "mailto:vuln-newsletter-request@linuxsecurity.com?Subject=subscribe",
+        "status_code": null,
+        "action": "Skipped url"
+    },
+    {
+        "id": 18,
+        "field": "introtext",
+        "decompose_url": null,
+        "url": "mailto:security-discuss-request@linuxsecurity.com?Subject=subscribe",
+        "status_code": null,
+        "action": "Skipped url"
+    }
+]
