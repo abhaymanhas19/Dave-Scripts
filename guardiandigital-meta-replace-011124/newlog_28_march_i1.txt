@@ -1,0 +1,4 @@
+INFO:root:						OLD									New
+INFO:root:Row 1: record_url: https://guardiandigital.com/, starting process
+INFO:root:Row 1: w5zxq_menu title: 101-Guardian Digital Makes Email Safe For Business - Microsoft 365, Goo....                    Makes Email Safe For Business: Microsoft 365, Google Workspace and More!
+INFO:root:Row 2: record_url: https://guardiandigital.com/solutions, starting process
